@@ -1,3 +1,3 @@
 # Ahmad-repos
 This is my first git repository. <br>
-Author: Ahmad Raza Khan
+Author: Ahmad Raza Khan and Co.
